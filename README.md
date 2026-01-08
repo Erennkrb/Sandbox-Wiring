@@ -89,3 +89,9 @@ Mirroring power from one source to two devices.
 1. **Power Supply.power** → **Splitter.in**
 2. **Splitter.a** → **Screen.power**
 3. **Splitter.b** → **LED.power**
+
+---
+
+Note : Some components might be unfinished or broken please note that the game is still not finished thanks 
+Paypal : [Erenkrb](https://www.paypal.com/paypalme/Erenkrb)
+Portfolio : [ErenK](https://erenk.netlify.app)
