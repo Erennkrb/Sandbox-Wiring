@@ -93,5 +93,7 @@ Mirroring power from one source to two devices.
 ---
 
 Note : Some components might be unfinished or broken please note that the game is still not finished thanks 
+
 Paypal : [Erenkrb](https://www.paypal.com/paypalme/Erenkrb)
+
 Portfolio : [ErenK](https://erenk.netlify.app)
