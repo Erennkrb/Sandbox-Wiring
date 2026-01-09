@@ -96,4 +96,4 @@ Note : Some components might be unfinished or broken please note that the game i
 
 Paypal : [Erenkrb](https://www.paypal.com/paypalme/Erenkrb)
 
-Portfolio : [ErenK](https://erenk.netlify.app)
+Portfolio : [Erenk.de](https://erenk.de)
